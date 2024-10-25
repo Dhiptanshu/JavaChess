@@ -2,7 +2,8 @@
 Semester 3 Java Project - terminal-based chess game.
 
 Pre-requisites: 
-1. Installed JDK (Java Development Kit) with proper path setup. If you haven't already, go to https://www.oracle.com/in/java/technologies/downloads/ and download the JDK version of your choice. 
+1. Installed JDK (Java Development Kit) with proper path setup. If you haven't already, go to https://www.oracle.com/in/java/technologies/downloads/ and download the JDK version of your choice.
+2. If you have installation difficulty, you can follow this guide https://www.geeksforgeeks.org/download-and-install-java-development-kit-jdk-on-windows-mac-and-linux/.
 
 Steps to run the game:
 1. Save the file chessgame.java on your pc.
